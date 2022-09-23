@@ -1,1 +1,1 @@
-"# Text-Reader-Chrome-Extension" 
+Text Reader Chrome Extension
