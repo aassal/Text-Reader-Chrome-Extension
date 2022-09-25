@@ -35,7 +35,7 @@ $(document).ready(function () {
                     }
                 } 
                 else { 
-                    //DOESN'T WORK RIGHT, READING CONTINUES 
+                    //IF YOU PRESS ANY OTHER KEY IT STOPS READING
                     speechSynthesis.cancel()
    
                 } 
